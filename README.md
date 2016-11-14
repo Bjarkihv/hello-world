@@ -1,2 +1,3 @@
 # hello-world
-Tutorial
+
+Computer science student from Reykjavík, Iceland.
